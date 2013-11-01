@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		System.out.println("------------------------------");
 		System.out.println("-----------------第二次修改-------------");
-	}
+		System.out.println("-----------------第三次次修改-------------");	}
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
